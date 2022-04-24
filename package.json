@@ -20,7 +20,7 @@
     "livereload": "^0.9.3",
     "npm-run-all": "^4.1.5",
     "punycode": "^2.1.1",
-    "sass": "^1.49.9"
+    "sass": "^1.49.11"
   },
   "dependencies": {
     "clipboard": "^2.0.10",
